@@ -1,2 +1,2 @@
 language: ruby
-script: exit 0
+script: exit 1
