@@ -1,4 +1,3 @@
-version: "= 0"
 # container-based build
 sudo: false
 
