@@ -1,6 +1,3 @@
-# container-based build
-sudo: false
-
 language: scala
 
 env:
